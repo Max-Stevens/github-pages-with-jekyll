@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Nothing to see here"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Might as well go away and look elsewhere...
